@@ -14,6 +14,7 @@
 		48F577391CDD10F5003C70E8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 48F577371CDD10F5003C70E8 /* LaunchScreen.storyboard */; };
 		48F577441CDD10F6003C70E8 /* guess_my_numberTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48F577431CDD10F6003C70E8 /* guess_my_numberTests.swift */; };
 		48F5774F1CDD10F7003C70E8 /* guess_my_numberUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48F5774E1CDD10F7003C70E8 /* guess_my_numberUITests.swift */; };
+		48F5775D1CDF57B7003C70E8 /* numbers.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 48F5775C1CDF57B7003C70E8 /* numbers.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		48F5774A1CDD10F6003C70E8 /* guess my numberUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "guess my numberUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		48F5774E1CDD10F7003C70E8 /* guess_my_numberUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = guess_my_numberUITests.swift; sourceTree = "<group>"; };
 		48F577501CDD10F7003C70E8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		48F5775C1CDF57B7003C70E8 /* numbers.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = numbers.jpeg; path = ../../Desktop/numbers.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 				48F577421CDD10F6003C70E8 /* guess my numberTests */,
 				48F5774D1CDD10F6003C70E8 /* guess my numberUITests */,
 				48F5772C1CDD10F3003C70E8 /* Products */,
+				48F5775C1CDF57B7003C70E8 /* numbers.jpeg */,
 			);
 			sourceTree = "<group>";
 		};
@@ -229,6 +232,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				48F5775D1CDF57B7003C70E8 /* numbers.jpeg in Resources */,
 				48F577391CDD10F5003C70E8 /* LaunchScreen.storyboard in Resources */,
 				48F577361CDD10F5003C70E8 /* Assets.xcassets in Resources */,
 				48F577341CDD10F4003C70E8 /* Main.storyboard in Resources */,
@@ -482,6 +486,7 @@
 				48F577551CDD10F7003C70E8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		48F577561CDD10F7003C70E8 /* Build configuration list for PBXNativeTarget "guess my numberTests" */ = {
 			isa = XCConfigurationList;
@@ -490,6 +495,7 @@
 				48F577581CDD10F7003C70E8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		48F577591CDD10F7003C70E8 /* Build configuration list for PBXNativeTarget "guess my numberUITests" */ = {
 			isa = XCConfigurationList;
@@ -498,6 +504,7 @@
 				48F5775B1CDD10F7003C70E8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
