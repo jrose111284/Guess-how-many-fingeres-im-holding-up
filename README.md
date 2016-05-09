@@ -1,6 +1,6 @@
 #Instructions
 
-![Alt text](/Screen Shot 2016-05-08 at 12.23.44 "game")
+![app](./Screen Shot 2016-05-08 at 12.23.44.png "game")
 
 
 to run this application
